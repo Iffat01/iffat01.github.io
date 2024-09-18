@@ -16,5 +16,6 @@ text-align: end;
 }
 p {
     background-color: skyblue;
-    background-color: ("C:\Users\admin\Downloads\work.jpg");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYBwxHL91O6hK9pBH9Edl2w72vcxBoj2o_fQ&s");
+
 }
