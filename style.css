@@ -2,12 +2,19 @@ h1 {
     background-color: violet;
     text-align: center;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7RR_Wobml0XD6EsK75ARoyzH-UmkATLrheQ&s")
-    font-size: 40px;
-}
+    }
 h2 {
     color: white;
     text-align: center;
 }
 body {
  background-color: black;
+}
+header {
+color: white;
+text-align: end;
+}
+p {
+    background-color: skyblue;
+    background-color: ("C:\Users\admin\Downloads\work.jpg");
 }
